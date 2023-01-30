@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-03-phonebook/static/css/main.7acaea2f.css",
-    "main.js": "/goit-react-hw-03-phonebook/static/js/main.eebabefd.js",
-    "index.html": "/goit-react-hw-03-phonebook/index.html",
-    "main.7acaea2f.css.map": "/goit-react-hw-03-phonebook/static/css/main.7acaea2f.css.map",
-    "main.eebabefd.js.map": "/goit-react-hw-03-phonebook/static/js/main.eebabefd.js.map"
+    "main.css": "/goit-react-hw-02-phonebook/static/css/main.a0065d32.css",
+    "main.js": "/goit-react-hw-02-phonebook/static/js/main.e95643a7.js",
+    "static/media/rajdhani-all-400-normal.woff": "/goit-react-hw-02-phonebook/static/media/rajdhani-all-400-normal.69448587a2c53b0a21ed.woff",
+    "static/media/rajdhani-devanagari-400-normal.woff2": "/goit-react-hw-02-phonebook/static/media/rajdhani-devanagari-400-normal.6c9e66e639fb808aad84.woff2",
+    "static/media/rajdhani-latin-400-normal.woff2": "/goit-react-hw-02-phonebook/static/media/rajdhani-latin-400-normal.7a7983e943008b42789d.woff2",
+    "static/media/rajdhani-latin-ext-400-normal.woff2": "/goit-react-hw-02-phonebook/static/media/rajdhani-latin-ext-400-normal.d920ea8ee9c011bae86d.woff2",
+    "index.html": "/goit-react-hw-02-phonebook/index.html",
+    "main.a0065d32.css.map": "/goit-react-hw-02-phonebook/static/css/main.a0065d32.css.map",
+    "main.e95643a7.js.map": "/goit-react-hw-02-phonebook/static/js/main.e95643a7.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.eebabefd.js"
+    "static/css/main.a0065d32.css",
+    "static/js/main.e95643a7.js"
   ]
 }
