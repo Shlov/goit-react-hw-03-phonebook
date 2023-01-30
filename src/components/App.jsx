@@ -4,6 +4,7 @@ import { FormContact } from "./FormContact/FotmContact";
 import { Contacts } from "./Contacts/Contacts";
 import "@fontsource/rajdhani";
 
+
 export class App extends Component {
   
   state = {
@@ -36,6 +37,11 @@ export class App extends Component {
 
   getVisibleContact = () => {
     return this.state.contacts.filter(({name}) => name.toLowerCase().includes(this.state.filter.toLowerCase()))
+  }
+  
+  componentDidUpdate (prevProps, prevState) {
+    console.log(prevProps)
+    console.log(prevState)
   }
 
   render () {
