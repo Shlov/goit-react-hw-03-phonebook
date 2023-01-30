@@ -38,10 +38,19 @@ export class App extends Component {
   getVisibleContact = () => {
     return this.state.contacts.filter(({name}) => name.toLowerCase().includes(this.state.filter.toLowerCase()))
   }
+
+  componentDidMount () {
+    const contacts = localStorage.getItem('contacts')
+    const parsedContacts = JSON.parse(contacts)
+    if (parsedContacts) {
+      this.setState({contacts: parsedContacts})
+    }
+  }
   
   componentDidUpdate (prevProps, prevState) {
-    console.log(prevProps)
-    console.log(prevState)
+    if (prevState.contacts !== this.state.contacts) {
+      return localStorage.setItem('contacts', JSON.stringify(this.state.contacts))
+    }
   }
 
   render () {
