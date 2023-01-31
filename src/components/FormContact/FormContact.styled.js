@@ -20,7 +20,6 @@ export const Label = styled.label`
   display: flex;
 `
 
-
 export const Form = styled.form`
 display: flex;
 gap: 18px;
