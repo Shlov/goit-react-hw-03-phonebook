@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-02-phonebook/static/css/main.a0065d32.css",
-    "main.js": "/goit-react-hw-02-phonebook/static/js/main.e95643a7.js",
-    "static/media/rajdhani-all-400-normal.woff": "/goit-react-hw-02-phonebook/static/media/rajdhani-all-400-normal.69448587a2c53b0a21ed.woff",
-    "static/media/rajdhani-devanagari-400-normal.woff2": "/goit-react-hw-02-phonebook/static/media/rajdhani-devanagari-400-normal.6c9e66e639fb808aad84.woff2",
-    "static/media/rajdhani-latin-400-normal.woff2": "/goit-react-hw-02-phonebook/static/media/rajdhani-latin-400-normal.7a7983e943008b42789d.woff2",
-    "static/media/rajdhani-latin-ext-400-normal.woff2": "/goit-react-hw-02-phonebook/static/media/rajdhani-latin-ext-400-normal.d920ea8ee9c011bae86d.woff2",
-    "index.html": "/goit-react-hw-02-phonebook/index.html",
-    "main.a0065d32.css.map": "/goit-react-hw-02-phonebook/static/css/main.a0065d32.css.map",
-    "main.e95643a7.js.map": "/goit-react-hw-02-phonebook/static/js/main.e95643a7.js.map"
+    "main.css": "/goit-react-hw-03-phonebook/static/css/main.7791b5f2.css",
+    "main.js": "/goit-react-hw-03-phonebook/static/js/main.719cc583.js",
+    "static/media/rajdhani-all-400-normal.woff": "/goit-react-hw-03-phonebook/static/media/rajdhani-all-400-normal.69448587a2c53b0a21ed.woff",
+    "static/media/rajdhani-devanagari-400-normal.woff2": "/goit-react-hw-03-phonebook/static/media/rajdhani-devanagari-400-normal.6c9e66e639fb808aad84.woff2",
+    "static/media/rajdhani-latin-400-normal.woff2": "/goit-react-hw-03-phonebook/static/media/rajdhani-latin-400-normal.7a7983e943008b42789d.woff2",
+    "static/media/rajdhani-latin-ext-400-normal.woff2": "/goit-react-hw-03-phonebook/static/media/rajdhani-latin-ext-400-normal.d920ea8ee9c011bae86d.woff2",
+    "index.html": "/goit-react-hw-03-phonebook/index.html",
+    "main.7791b5f2.css.map": "/goit-react-hw-03-phonebook/static/css/main.7791b5f2.css.map",
+    "main.719cc583.js.map": "/goit-react-hw-03-phonebook/static/js/main.719cc583.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0065d32.css",
-    "static/js/main.e95643a7.js"
+    "static/css/main.7791b5f2.css",
+    "static/js/main.719cc583.js"
   ]
 }
